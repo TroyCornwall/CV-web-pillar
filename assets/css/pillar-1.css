@@ -8697,6 +8697,10 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
   color: #434E5E;
 }
 
+.resume-award-job {
+  color: #434E5E;
+}
+
 .resume-award-desc {
   font-size: 0.875rem;
 }
